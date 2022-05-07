@@ -1,0 +1,23 @@
+# All Environment variables for the server side code
+
+NODE_ENV = development
+
+PORT = 5000
+
+MONGO_URI = mongodb://localhost:27017/app_starting
+
+JWT_ACCESS_TOKEN_SECRET = secret
+
+JWT_REFRESH_TOKEN_SECRET = secret
+
+JWT_EMAIL_TOKEN_SECRET = secret
+
+JWT_FORGOT_PASSWORD_TOKEN_SECRET = secret
+
+COOKIE_SESSION_KEY = 1234
+
+STRIPE_SECRET_KEY = sk_test_51KT1ViSHBhnS0iz5SAZ9Qp9xHl1PTnOV1XM8Y5jwEf216TUUMGcU77XfIl9ibrnuTkcDenkNYzCuPksYYxIMcnGe00dK9ee9xz
+
+FRONTEND_BASE_URL = http://localhost:3000
+
+BACKEND_BASE_URL = http://localhost:5000
