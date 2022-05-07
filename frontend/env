@@ -1,0 +1,5 @@
+# Environment variables for the client side code
+
+PUBLISHABLE_KEY = pk_test_51KT1ViSHBhnS0iz5gcK9EOmw7JBb4XrX5CqFBFKzrb8QKAK7vduvvREaorJjFHOmVoJNSYyoAX6Uu1LVF24reCm5005ZhpwrBW
+
+REACT_APP_BASE_URL = http://localhost:5000
